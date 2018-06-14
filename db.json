@@ -1,0 +1,9 @@
+{
+  "pages": [
+    {
+      "id": "about",
+      "title": "About us",
+      "content": "here is some content"
+    }
+  ]
+}
